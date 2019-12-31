@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  
-  import React, { Component } from 'react'
-            import MoneyButton from '@moneybutton/react-money-button'
 
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -30,18 +27,9 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-                  class MyApp extends Component {
-                  render() {
-                  return <MoneyButton
-                  to="<your-bitcoin-address-here>"
-                  amount="1"
-                  currency="USD"
-                    />
-                  }
-                }
-          <!--   <a href="{{ site.baseurl }}/">Blog</a>
-          <a href="{{ site.baseurl }}/about">About</a> -->
+          <nav>  
+            <!--<a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a> -->
           </nav>
         </header>
       </div>
