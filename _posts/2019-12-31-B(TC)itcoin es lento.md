@@ -32,19 +32,33 @@ Bitcoin escala al infinito si dejan al protocolo lo suficientemente LIBRE como p
 Un saludo.
 
 [1] https://np.reddit.com/r/btc/comments/3ygo96/blocksize_consensus_census/cye0bmt/
+
 [2] https://www.youtube.com/watch?v=ivgxcEOyWNs&feature=youtu.be&t=2h36m20s
+
 [3] https://www.bitcoinblockhalf.com/
+
 [4] https://petertodd.org/2016/are-wallets-ready-for-rbf
+
 [5] https://www.ccn.com/bitcoin-atm-double-spenders-police-need-help-identifying-four-criminals/
+
 [6] https://bitcointalk.org/index.php?topic=4905430.0
+
 [7]https://www.trustnodes.com/2018/03/26/lightning-network-user-loses-funds || https://www.trustnodes.com/2019/03/13/lightning-network-has-many-routing-problems-says-lead-dev-at-lightning-labs
+
 [8] https://diar.co/volume-2-issue-25/
+
 [9] https://blockonomi.com/watchtowers-bitcoin-lightning-network/
+
 [10] https://twitter.com/starkness/status/676599570898419712
+
 [11] https://store.casa/lightning-node/
+
 [12] https://bitcoin.stackexchange.com/questions/81906/to-create-a-channel-on-the-lightning-network-do-you-have-to-execute-an-actual-t
+
 [13] https://blog.muun.com/the-inbound-capacity-problem-in-the-lightning-network/
+
 [14] https://medium.com/@octskyward/the-capacity-cliff-586d1bf7715e
+
 [15] https://dashnews.org/peter-todd-argues-for-bitcoin-inflation-to-support-security/
 [16] https://twitter.com/peterktodd/status/1092260891788103680
 [17] https://medium.com/datadriveninvestor/tether-usd-is-used-to-manipulate-bitcoin-prices-94714e65ee31
