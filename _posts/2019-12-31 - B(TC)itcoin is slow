@@ -1,5 +1,7 @@
-
-
+---
+layout: post
+title: B(TC)itcoin is slow
+---
 
 Bitcoin is slow because the block size was left at 1MB - 2MB with Witness Data on the SEGWIT network - after throwing the entire "team" developer of GitHub and being occupied by developers of what is now known as Blockstream.
 This size has been maintained and keeps referring to two issues: Mining in China and the decentralization of the nodes or transaction validators that you point out in the article.
